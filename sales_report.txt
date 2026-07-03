@@ -1,0 +1,13 @@
+===== PRODUCT SALES REPORT =====
+
+Top 5 Selling Products:
+1. Mouse - 45 units
+2. Keyboard - 30 units
+3. Headphones - 20 units
+4. Speaker - 18 units
+5. Laptop - 12 units
+
+Total Revenue: ₹1005500.00
+
+Least Selling Product(s):
+- Printer (5 units)
